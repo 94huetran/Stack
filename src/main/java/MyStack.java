@@ -1,4 +1,4 @@
-public class MyStack {
+public class MyStack{
     private int size;
     private int[] arr;
     private int indext;

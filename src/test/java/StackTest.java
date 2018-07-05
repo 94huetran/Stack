@@ -17,9 +17,8 @@ public class StackTest {
         Assert.assertEquals(6,size);
     }
 
-    @Test
-    public void TestIsPop() {
-        int
+    public void TestPop() throws Exception {
+        myStack.pop();
     }
 
 }
